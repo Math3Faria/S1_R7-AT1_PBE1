@@ -70,6 +70,7 @@ const produtoModel = {
 
 module.exports = { produtoModel };
 
+//aula passada para dar apoio
 // selecionaPorId: async (pId) => {
 //     const sql = 'select * from ... where id=?;';
 //     const values = [pId];
